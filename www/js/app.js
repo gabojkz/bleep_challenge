@@ -6,4 +6,5 @@ $(window).on('load', function() {
       $('#loading').hide();
     }, 1000);
 
+ 
  });
