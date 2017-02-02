@@ -10,9 +10,15 @@
 }
 
 .chapter-title{
-  font-size: 2rem;
+  font-size: 1.5rem;
   font-weight: 900;
 }
+
+.title-separator{
+  position: relative;
+  top: 4px;
+}
+
 
 .options{
   text-align: center;
