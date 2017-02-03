@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/gabouk/Developer/bleep_challenge/platforms/android/build/intermediates/exploded-aar/android/CordovaLib/unspecified/debug/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e81113200b935db9a6a25068a09a325209207b85">
+        <dex dex="/home/gabouk/Developer/bleep_challenge/platforms/android/build/intermediates/pre-dexed/debug/CordovaLib-unspecified-debug_8cbbd1684f0266384a258fdd9d1770e788fa3161.jar" />
+    </item>
+
+</items>
